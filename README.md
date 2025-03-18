@@ -52,7 +52,7 @@
 ---
 
 ## 🌍 Languages  
-<p align="center">
+<p >
   <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English" width="50" height="30" />  
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Persian" width="50" height="30" />
@@ -61,7 +61,7 @@
 ---
 
 ## 📫 How to Reach Me  
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/ali-ghanbari-b87325320" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn" />
   </a>
@@ -73,9 +73,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Coding GIF" />
-</p>
+
 
 ---
 
