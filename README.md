@@ -13,16 +13,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-| **Category** | **Technologies** |
-|-------------|------------------|
-| **Languages** | JavaScript (ES6+), HTML5, CSS3 |
-| **Frameworks** | Node.js, React |
-| **Databases** | MongoDB, MySQL |
-| **Tools** | Git, Docker, Postman, VS Code |
-
----
-
 ## 🌍 Languages  
 - 🇬🇧 **English** – Professional  
 - 🇮🇷 **Persian** – Native  
@@ -35,10 +25,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Coding GIF" />
-</p>
-
----
 
 ⭐️ *Feel free to explore my repositories and connect with me!* 😎
