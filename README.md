@@ -52,21 +52,22 @@
 ---
 
 ## 🌍 Languages  
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 **English** | Professional |
-| 🇮🇷 **Persian** | Native |
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English" width="50" height="30" />  
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Persian" width="50" height="30" />
+</p>
 
 ---
 
 ## 📫 How to Reach Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ghanbari-b87325320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://t.me/Alighanbari_1379" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" height="40" alt="Telegram" />
   </a>
 </p>
 
