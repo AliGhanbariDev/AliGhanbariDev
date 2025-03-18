@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ali Ghanbari!</h1>
+<h1 align="center">Welcome!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"/>
