@@ -7,13 +7,11 @@
 ---
 
 ## 🚀 About Me
-👋 Hey there! I'm Ali Ghanbari — a passionate Back-End Developer and a dedicated English Teacher.
-💡 I love tackling complex problems and turning them into elegant solutions. Whether it's debugging code or helping someone master a tricky grammar rule, I'm all about finding the best way forward.
-💻 My expertise lies in building scalable, efficient systems with Node.js, and I’m also skilled in JavaScript, HTML5, CSS3, and React.
-🌱 I'm constantly learning and evolving, always looking for the next challenge to conquer.
-🎯 When I’m not coding or teaching, you’ll probably find me exploring new technologies, solving brain teasers, or diving into a good book.
+👋 Hey, I'm Ali Ghanbari — a Back-End Developer and English Teacher who loves solving problems and taking on new challenges.
+💻 Skilled in Node.js, JavaScript, HTML5, CSS3, and React — I’m passionate about building efficient, scalable systems.
+🌱 Constantly learning and improving, both in coding and teaching.
+🎯 Always ready to tackle the next challenge!
 
-<p align="center"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Code gif"/> &nbsp;&nbsp; <img src="https://media.giphy.com/media/l0MYGBBr8gpJp0N96/giphy.gif" width="200" alt="Teaching gif"/> </p>
 ---
 
 ## 🛠️ Tech Stack  
