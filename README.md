@@ -34,20 +34,31 @@
 ---
 
 ## 📫 How to Reach Me  
-<p >
+## 📫 How to Reach Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ali-ghanbari-b87325320" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Alighanbari_1379" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" height="40" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ghanbari022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AliGhanbariDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
-
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me!* 😎
+
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!* 
